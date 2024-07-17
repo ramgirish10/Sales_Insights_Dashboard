@@ -46,3 +46,7 @@ To get started with this project:
 1. Open the `Sales Insights Altiq.pbix` file in Power BI Desktop.
 2. Review the data model and dashboards.
 3. Customize the visuals and metrics as needed for your specific sales analysis.
+
+## 📸 Screenshots
+Screenshot of the dashboard and visualizations to illustrate key insights and features.
+![Sales Insights](https://github.com/user-attachments/assets/16392a17-49b8-4e36-9da7-12cac110a4dc)
